@@ -4,7 +4,7 @@ dist/
 .env
 
 # Angular
-.angular/
+
 
 # .NET
 **/bin/
